@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-WebApplication1",
+      "appliesTo": "WebApplication1/",
+      "type": "launch"
+    },
+    {
+      "taskName": "task-launchSettings",
+      "appliesTo": "WebApplication1/Properties/launchSettings.json",
+      "type": "launch"
+    }
+  ]
+}
